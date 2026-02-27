@@ -3,7 +3,7 @@ Project Overview
 The Superstore Sales Dashboard is an interactive Power BI report designed to analyze sales performance, profit, discounts, and order trends from 2014 to 2017.
 
 This dashboard helps in understanding business performance across categories, sub-categories, segments, and ship modes using dynamic visualizations and filters.
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Dataset
 
@@ -28,7 +28,7 @@ Segment
 Ship Mode
 
 Order Date
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 Key Performance Indicators (KPIs)
