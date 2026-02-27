@@ -3,7 +3,7 @@ Project Overview
 The Superstore Sales Dashboard is an interactive Power BI report designed to analyze sales performance, profit, discounts, and order trends from 2014 to 2017.
 
 This dashboard helps in understanding business performance across categories, sub-categories, segments, and ship modes using dynamic visualizations and filters.
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Dataset
 
@@ -28,8 +28,7 @@ Segment
 Ship Mode
 
 Order Date
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Key Performance Indicators (KPIs)
 
@@ -43,37 +42,48 @@ Average Discount: 0.16
 
 Total Quantity Sold: 38K
 
-
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Dashboard Visualizations
 
 1.Total Sales & Total Profit by Year
+  
   Shows yearly growth trend from 2014 to 2017.
 
 2.Total Sales by Category & Sub-Category (Treemap)
+  
   Compares contribution of Technology, Furniture, and Office Supplies.
 
 3.Total Profit by Category (Waterfall Chart)
+  
   Displays profit contribution of each category.
 
 4.Profit Ratio by Ship Mode
+  
   Compares profitability across First Class, Second Class, Same Day, and Standard Class.
 
 5.Total Profit by Sub-Category
+  
   Highlights most profitable sub-categories such as Copiers and Phones.
 
 6.Total Sales by Category (Bar Chart)
+  
   Technology generates the highest sales.
 
 7.Sales vs Profit by Category (Scatter Plot)
+  
   Shows relationship between revenue and profitability.
 
 8.Total Sales by Segment (Donut Chart)
+  
   Consumer segment contributes the highest sales share.
 
 9.Date Range Slicer
+  
   Interactive filter to analyze specific time periods.
 
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Tools & Technologies Used
 
 Power BI Desktop
@@ -84,7 +94,7 @@ DAX Measures\
 
 Data Visualization Techniques
 
-
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Key Insights
 
