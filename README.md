@@ -4,6 +4,7 @@ The Superstore Sales Dashboard is an interactive Power BI report designed to ana
 
 This dashboard helps in understanding business performance across categories, sub-categories, segments, and ship modes using dynamic visualizations and filters.
 
+
 Dataset
 
 Dataset Name: Sample – Superstore
@@ -33,10 +34,16 @@ Order Date
 Key Performance Indicators (KPIs)
 
 Total Sales: 2.30M
+
 Total Profit: 286.40K
+
 Profit Ratio: 0.12Total Orders: 5K
+
 Average Discount: 0.16
+
 Total Quantity Sold: 38K
+
+
 
 Dashboard Visualizations
 
@@ -70,14 +77,24 @@ Dashboard Visualizations
 Tools & Technologies Used
 
 Power BI Desktop
+
 Data Modeling
+
 DAX Measures\
+
 Data Visualization Techniques
+
+
 
 Key Insights
 
+
 Sales and profit show consistent growth over the years.
+
 Technology category generates highest sales.
+
 Copiers and Phones are top profit-generating sub-categories.
+
 Consumer segment contributes more than 50% of total sales.
+
 Standard Class shipping is most commonly used.
