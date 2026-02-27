@@ -1,4 +1,4 @@
-Project Overview
+Project Overview 
 
 The Superstore Sales Dashboard is an interactive Power BI report designed to analyze sales performance, profit, discounts, and order trends from 2014 to 2017.
 
