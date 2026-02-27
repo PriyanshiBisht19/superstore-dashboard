@@ -8,7 +8,7 @@ This dashboard helps in understanding business performance across categories, su
  
  Dataset
 
-Dataset Name: Sample – Superstore
+Dataset Name: Sample – Superstore 
 
 Time Period: 2014 – 2017
 
