@@ -7,7 +7,7 @@ This dashboard helps in understanding business performance across categories, su
 Dataset
 
 Dataset Name: Sample – Superstore
-Time Period: 2014 – 2017
+ Time Period: 2014 – 2017
 Data Includes:
 Sales
 Profit
