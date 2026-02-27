@@ -7,39 +7,23 @@ This dashboard helps in understanding business performance across categories, su
 Dataset
 
 Dataset Name: Sample – Superstore
-
 Time Period: 2014 – 2017
-
 Data Includes:
-
 Sales
-
 Profit
-
 Discount
-
 Quantity
-
 Category & Sub-Category
-
 Segment
-
 Ship Mode
-
 Order Date
 
 Key Performance Indicators (KPIs)
 
 Total Sales: 2.30M
-
 Total Profit: 286.40K
-
-Profit Ratio: 0.12
-
-Total Orders: 5K
-
+Profit Ratio: 0.12Total Orders: 5K
 Average Discount: 0.16
-
 Total Quantity Sold: 38K
 
 Dashboard Visualizations
@@ -74,21 +58,14 @@ Dashboard Visualizations
 Tools & Technologies Used
 
 Power BI Desktop
-
 Data Modeling
-
-DAX Measures
-
+DAX Measures\
 Data Visualization Techniques
 
 Key Insights
 
 Sales and profit show consistent growth over the years.
-
 Technology category generates highest sales.
-
 Copiers and Phones are top profit-generating sub-categories.
-
 Consumer segment contributes more than 50% of total sales.
-
 Standard Class shipping is most commonly used.
